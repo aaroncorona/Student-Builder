@@ -1,4 +1,4 @@
-# Student Grader
+# Student Builder
 <img width="400" alt="error" src="https://www.gse.harvard.edu/sites/default/files//content-images/1500x750-grade-expectations.jpg">
 
 ## 🎒 Summary
